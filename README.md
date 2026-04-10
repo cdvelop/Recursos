@@ -1,5 +1,11 @@
 # Recursos
 recursos de aprendizaje en tecnología
 
-[Hola mundo](HOLA_MUNDO.md)
+## indice:
+---
+- [MarkDown](MarkDown/README.md)
+- [Visual Studio Code](VsCode/README.md)
+- [Python](Python/README.md)
+---
+
 
