@@ -1,2 +1,5 @@
+# ejemplo de hola mundo en python
 
-aqui va el hola mundo
+```python
+print("Hola mundo")
+```
