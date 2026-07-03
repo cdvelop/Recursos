@@ -81,7 +81,7 @@ Puedes hacer todo el laboratorio en el navegador. Si prefieres la aplicación de
 
 1. En Visual Studio Code abre la pestaña **Ports**.
 > ![open-browser](images/vsc_port.png)
-2. Busca el puerto etiquetado como **pgAdmin**.
+2. Busca el puerto etiquetado como **pgAdmin** o el numero **5050**.
 3. Haz clic en **Open in Browser**.
 
 No es necesario cambiar la visibilidad de los puertos a Público.
