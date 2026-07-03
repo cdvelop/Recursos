@@ -12,7 +12,7 @@ Elige cómo levantar el entorno:
 
 | Método | Para quién | Guía |
 |---|---|---|
-| **GitHub Codespaces** ⭐ | Recomendado. Todo en la nube, sin instalar (solo VS Code). | **[Iniciar con Codespaces](docs/INICIO_CODESPACES.md)** |
+| **GitHub Codespaces** ⭐ | Recomendado. Todo en la nube, sin instalar nada en tu maquina. | **[Iniciar con Codespaces](docs/INICIO_CODESPACES.md)** |
 | **Instalación local** | Correr PostgreSQL y pgAdmin en tu propia máquina. | **[Iniciar en local](docs/INICIO_LOCAL.md)** |
 
 ---
